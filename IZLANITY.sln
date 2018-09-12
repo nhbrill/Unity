@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IZLANITY.Plugins", "IZLANITY.Plugins.csproj", "{443925C4-D622-E203-27D9-8655C0A07F7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IZLANITY.Editor.Plugins", "IZLANITY.Editor.Plugins.csproj", "{30EBA3B4-2140-B26E-CE57-F3282B3CD581}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{443925C4-D622-E203-27D9-8655C0A07F7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{443925C4-D622-E203-27D9-8655C0A07F7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{443925C4-D622-E203-27D9-8655C0A07F7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{443925C4-D622-E203-27D9-8655C0A07F7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30EBA3B4-2140-B26E-CE57-F3282B3CD581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30EBA3B4-2140-B26E-CE57-F3282B3CD581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30EBA3B4-2140-B26E-CE57-F3282B3CD581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30EBA3B4-2140-B26E-CE57-F3282B3CD581}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
